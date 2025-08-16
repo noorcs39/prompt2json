@@ -163,7 +163,7 @@ The JSON output includes:
 ### Setup Development Environment
 
 ```bash
-git clone https://github.com/yourusername/prompt2json.git
+git clone https://github.com/noorcs39/prompt2json.git
 cd prompt2json
 pip install -e ".[dev]"
 ```
