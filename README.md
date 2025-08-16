@@ -23,7 +23,7 @@ pip install prompt2json
 ### From source
 
 ```bash
-git clone https://github.com/yourusername/prompt2json.git
+git clone https://github.com/noorcs39/prompt2json.git
 cd prompt2json
 pip install -e .
 ```
